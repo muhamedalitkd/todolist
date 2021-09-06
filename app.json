@@ -2,6 +2,8 @@
   "expo": {
     "name": "todoList",
     "slug": "todoList",
+    "privacy": "public",
+    "description": "to track to do list",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
